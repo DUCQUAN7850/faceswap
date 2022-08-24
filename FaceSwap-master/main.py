@@ -123,3 +123,4 @@ if __name__ == '__main__':
     
     cv2.destroyAllWindows()
     print("oke luon")
+    print("check phat nua")
