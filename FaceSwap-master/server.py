@@ -13,7 +13,7 @@ UPLOAD_FOLDER = '{}/uploads/'.format(static_file_dir)
 # UPLOAD_FOLDER = '{}/uploads/'.format(PROJECT_HOME)
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 # RESULT_IMAGES = os.path.join(PROJECT_HOME, "results/swapimage.jpg")
-
+print("service is running.....")
 
 
 def create_new_folder(local_dir):
